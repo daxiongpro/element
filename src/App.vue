@@ -7,6 +7,7 @@
     <a href="#/layout">布局</a>
     <a href="#/container">容器</a>
     <a href="#/container_demo">容器示例</a>
+    <a href="#/test">test</a>
 
     <br/>
     <br/>

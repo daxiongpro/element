@@ -7,6 +7,7 @@ import Link from "../components/Link";
 import Layout from "../components/Layout";
 import Container from "../components/Container";
 import Container_demo from "../components/Container_demo";
+import test from "../components/test";
 
 Vue.use(Router)
 
@@ -22,6 +23,7 @@ export default new Router({
     { path: '/link', component: Link },
     { path: '/layout', component: Layout },
     { path: '/container', component: Container },
-    { path: '/container_demo', component: Container_demo }
+    { path: '/container_demo', component: Container_demo },
+    { path: '/test', component: test }
   ]
 })
